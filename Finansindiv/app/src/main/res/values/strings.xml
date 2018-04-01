@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finansindiv</string>
+    <string name="veditd">Введіть дані</string>
+    <string name="name">Назва</string>
+    <string name="kilk">Кількість</string>
+    <string name="dohit">Дохід</string>
+    <string name="vitrat">Витрати</string>
+    <string name="delete">Видалити</string>
+</resources>
